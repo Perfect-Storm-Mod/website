@@ -1,10 +1,10 @@
 @font-face {
   font-family: "reggae";
-  src: url("../FOT-Reggae_Std.ttf") format("truetype");
+  src: url("../fonts/FOT-Reggae_Std.ttf") format("truetype");
 }
 @font-face {
   font-family: "chiaro";
-  src: url("../FOT-ChiaroStd-B.otf") format("opentype");
+  src: url("../fonts/FOT-ChiaroStd-B.otf") format("opentype");
 }
 .container {
   color: white !important;
@@ -20,7 +20,7 @@ h1 {
 }
 .jumbotron {
   padding: 0 !important;
-  background: url("../logo.png");
+  background: url("../img/logo.png");
   background-size: cover;
   background-position: center;
 }
